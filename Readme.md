@@ -10,6 +10,8 @@
   <b>Reforçando: </b>Este é um projeto didático feito e para fins de demonstração, mas que pode ser fácilmente adaptado para produção, fique a vontade para realizar melhorias.
 </p>
 
+<hr />
+
 <b>Funcionalidades: </b>
 
 Cliente:
@@ -27,3 +29,5 @@ Administrador:
   <li>Excluir postagens</li>
   <strike><li>Alterar imagens e cores do site</li></strike>
 </ol>
+<hr />
+Aguarde atualizações...
