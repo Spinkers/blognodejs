@@ -1,17 +1,17 @@
 <h1>Sistema de blog</h1>
 <h2>Node.js, Express e MongoDB</h2>
 
+<b>Descrição:</b>
 <p>
   Este é um sistema de blog simples, porém funcional.
   <br />
-  O código foi escrito para ser didático, neste projeto existem várias formas de se fazer uma mesma coisa, algumas comuns, outras nem tanto.
-  <br />
-  Também existem partes bem completas no que se refere a validação de formulário e outras nem tanto.
+  O código foi escrito para ser didático, neste projeto existem várias formas de se fazer uma mesma coisa, algumas comuns, outras nem tanto. Também existem partes bem completas no que se refere a validação de formulário e outras nem tanto.
   <br />
   <b>Reforçando: </b>Este é um projeto didático feito e para fins de demonstração, mas que pode ser fácilmente adaptado para produção, fique a vontade para realizar melhorias.
 </p>
 
 <b>Funcionalidades: </b>
+
 Cliente:
 <ol>
   <li>Visualizar postagens</li>
