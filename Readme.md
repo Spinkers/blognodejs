@@ -1,5 +1,5 @@
 <h1>Sistema de blog</h1>
-<h2>Node.js, Express e MongoDB</h2>
+<h4>Node.js, Express e MongoDB</h4>
 
 <b>Descrição:</b>
 <p>
